@@ -16,6 +16,10 @@ Make sure you have Python 3.7 or higher installed.
 pip install fastapi uvicorn textblob httpx pytest
 ```
 
+``` apprunner build command on startup
+pip intall -r requirements.txt
+```
+
 2. Clone the repository or deploy it to AWS AppRunner as shown in this video.
 
 
